@@ -17,3 +17,11 @@ Este projeto é uma **Calculadora de IMC (Índice de Massa Corporal)**. A aplica
   - Peso normal
   - Sobrepeso
   - Obesidade (graus 1, 2 ou 3)
+ 
+---
+
+## Tecnologias utilizadas
+1. HTML
+2. CSS
+3. JavaScript
+4. Git
