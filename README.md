@@ -12,7 +12,7 @@ Este projeto é uma **Calculadora de IMC (Índice de Massa Corporal)**. A aplica
 ---
 
 ## Funcionalidades
-- Exibição do resultado com as classificações:
+1. Exibição do resultado com as classificações:
   - Abaixo do peso
   - Peso normal
   - Sobrepeso
@@ -21,7 +21,8 @@ Este projeto é uma **Calculadora de IMC (Índice de Massa Corporal)**. A aplica
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
